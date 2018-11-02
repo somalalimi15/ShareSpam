@@ -18,7 +18,7 @@ var channel = "507984864096550922";//ايدي الروم
 client.login(process.env.BOT_TOKEN);
 ///
 const Discord2 = require('discord.js');
-const client = new Discord.Client2();
+const client = new Discord.Client();
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);  
