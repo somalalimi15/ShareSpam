@@ -1,5 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
+const client2 = new Discord.Client();
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);  
@@ -17,8 +18,6 @@ var channel = "507984864096550922";//ايدي الروم
 
 client.login(process.env.BOT_TOKEN);
 ///
-const Discord2 = require('discord.js');
-const client = new Discord.Client();
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);  
@@ -26,7 +25,7 @@ client.on('ready', () => {
 
 //spam2
 
-client.on('ready', async() => {
+client2.on('ready', async() => {
 var server = "502578149423448074"; // ايدي السررفر
 var channel = "507984888641880071";//ايدي الروم
     setInterval(()=>{
