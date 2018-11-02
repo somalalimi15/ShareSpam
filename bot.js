@@ -17,7 +17,7 @@ var channel = "507984864096550922";//ايدي الروم
 
 client.login(process.env.BOT_TOKEN);
 ///
-const Discord = require('discord.js');
+const Discord2 = require('discord.js');
 const client = new Discord.Client2();
 
 client.on('ready', () => {
