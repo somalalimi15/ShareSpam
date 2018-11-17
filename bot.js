@@ -60,40 +60,40 @@ client111.on("guildMemberAdd", member => {
 
   
 client.on('ready', async() => {
-var server = "509370079046270977"; // ايدي السررفر
-var channel = "509370815893209090";//ايدي الروم
+var server = "508167471212265482"; // ايدي السررفر
+var channel = "513270917812584448";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
  
 client2.on('ready', async() => {
-var server = "509370079046270977"; // ايدي السررفر
-var channel = "511219651951460392";//ايدي الروم
+var server = "508167471212265482"; // ايدي السررفر
+var channel = "513270917812584448";//ايدي الروم
     setInterval(()=>{
     client2.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
 
 client3.on('ready', async() => {
-var server = "509370079046270977"; // ايدي السررفر
-var channel = "511219659819712533";//ايدي الروم
+var server = "508167471212265482"; // ايدي السررفر
+var channel = "513270917812584448";//ايدي الروم
     setInterval(()=>{
     client3.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
  
 client4.on('ready', async() => {
-var server = "509370079046270977"; // ايدي السررفر
-var channel = "511219675124727828";//ايدي الروم
+var server = "508167471212265482"; // ايدي السررفر
+var channel = "513270917812584448";//ايدي الروم
     setInterval(()=>{
     client4.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
 })
  
 client5.on('ready', async() => {
-var server = "509370079046270977"; // ايدي السررفر
-var channel = "511219681332428811";//ايدي الروم
+var server = "508167471212265482"; // ايدي السررفر
+var channel = "513270917812584448";//ايدي الروم
     setInterval(()=>{
     client5.guilds.get(server).channels.get(channel).send('**- SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM - SoM **')
     },305);
